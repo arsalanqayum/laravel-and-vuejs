@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f27f4101-9878-4f24-a5f3-64c4402bd931" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-505510769">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.84" value="1" />
+          <entry key="project.opened" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="env" value="8" />
+          <entry key="js" value="948" />
+          <entry key="php" value="548" />
+          <entry key="scss" value="39" />
+          <entry key="vue" value="825" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Blade" value="429" />
+          <entry key="JavaScript" value="948" />
+          <entry key="PHP" value="119" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="SCSS" value="39" />
+          <entry key="Vue.js" value="825" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="5" />
+          <entry key="php" value="12" />
+          <entry key="scss" value="1" />
+          <entry key="vue" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Blade" value="4" />
+          <entry key="JavaScript" value="5" />
+          <entry key="PHP" value="8" />
+          <entry key="SCSS" value="1" />
+          <entry key="Vue.js" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/js/components/Auth/login.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/js/components/dashboard.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/js/components/mainlayout/widget.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="62" column="40" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/js/Store.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+                <element signature="e#400#490#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/auth.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/api.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="20" column="61" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="61" />
+              <folding>
+                <element signature="e#334#364#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/app.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="13" column="2" selection-start-line="13" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/js/bootstrap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dist/img/user2-160x160.jpg</find>
+      <find>asset('</find>
+      <find>\&lt;footer class\=\&quot;footer\-bg\&quot;\&gt;\n           \&lt;div class\=\&quot;footer\-top border\-bottom section\-padding\-top padding\-bottom\-40\&quot;\&gt;\n               \&lt;div class\=\&quot;container\&quot;\&gt;\n                   \&lt;div class\=\&quot;row\&quot;\&gt;\n                       \&lt;div class\=\&quot;col\-md\-6\&quot;\&gt;\n                           \&lt;div class\=\&quot;footer\-logo\&quot;\&gt;\n                               \&lt;a href\=\&quot;\#\&quot;\&gt;\n                                   \&lt;img src\=\&quot;images\/footer\-logo\.png\&quot; class\=\&quot;img\-fluid\&quot; alt\=\&quot;\&quot;\&gt;\n                               \&lt;\/a\&gt;\n                           \&lt;\/div\&gt;\n                       \&lt;\/div\&gt;\n                       \&lt;div class\=\&quot;col\-md\-6\&quot;\&gt;\n                           \&lt;div class\=\&quot;footer\-social\&quot;\&gt;\n                               \&lt;ul class\=\&quot;social\-icons\&quot;\&gt;\n                                   \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;i data\-feather\=\&quot;facebook\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                   \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;i data\-feather\=\&quot;twitter\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                   \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;i data\-feather\=\&quot;linkedin\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                   \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;i data\-feather\=\&quot;instagram\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                   \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;i data\-feather\=\&quot;youtube\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n                               \&lt;\/ul\&gt;\n                               \&lt;select class\=\&quot;selectpicker select\-language\&quot; id\=\&quot;select\-country\&quot;\&gt;\n                                   \&lt;option value\=\&quot;United States of America\&quot; selected\&gt;EN\&lt;\/option\&gt;\n                                   \&lt;option value\=\&quot;United Kingdom\&quot;\&gt;GB\&lt;\/option\&gt;\n                                   \&lt;option value\=\&quot;Spain\&quot;\&gt;ES\&lt;\/option\&gt;\n                                   \&lt;option value\=\&quot;Portugal\&quot;\&gt;PT\&lt;\/option\&gt;\n                               \&lt;\/select\&gt;\n                           \&lt;\/div\&gt;\n                       \&lt;\/div\&gt;\n                   \&lt;\/div\&gt;\n               \&lt;\/div\&gt;\n           \&lt;\/div\&gt;\n           \&lt;div class\=\&quot;footer\-widget\-wrapper padding\-bottom\-60 padding\-top\-80\&quot;\&gt;\n               \&lt;div class\=\&quot;container\&quot;\&gt;\n                   \&lt;div class\=\&quot;row\&quot;\&gt;\n                       \&lt;div class\=\&quot;col\-lg\-5 col\-sm\-6\&quot;\&gt;\n                           \&lt;div class\=\&quot;footer\-widget widget\-about\&quot;\&gt;\n                               \&lt;h4\&gt;About Us\&lt;\/h4\&gt;\n                               \&lt;div class\=\&quot;widget\-inner\&quot;\&gt;\n                                   \&lt;p class\=\&quot;description\&quot;\&gt;There are many variations of passages of Lorem Ipsum available\, but the majority have suffered alteration in some form\, by injected humour\.\&lt;\/p\&gt;\n                                   \&lt;span class\=\&quot;about\-contact\&quot;\&gt;\&lt;i data\-feather\=\&quot;phone\-forwarded\&quot;\&gt;\&lt;\/i\&gt;\+8 246\-345\-0698\&lt;\/span\&gt;\n                                   \&lt;span class\=\&quot;about\-contact\&quot;\&gt;\&lt;i data\-feather\=\&quot;mail\&quot;\&gt;\&lt;\/i\&gt;supportmail\@gmail\.com\&lt;\/span\&gt;\n                               \&lt;\/div\&gt;\n                           \&lt;\/div\&gt;\n                       \&lt;\/div\&gt;\n                       \&lt;div class\=\&quot;col\-lg\-2 offset\-lg\-1 col\-sm\-6\&quot;\&gt;\n                           \&lt;div class\=\&quot;footer\-widget footer\-shortcut\-link\&quot;\&gt;\n                               \&lt;h4\&gt;Information\&lt;\/h4\&gt;\n                               \&lt;div class\=\&quot;widget\-inner\&quot;\&gt;\n                                   \&lt;ul\&gt;\n                                       \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;About Us\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                       \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Contact Us\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                       \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Privacy Policy\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                       \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Terms \&amp;amp\; Conditions\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                   \&lt;\/ul\&gt;\n                               \&lt;\/div\&gt;\n                           \&lt;\/div\&gt;\n                       \&lt;\/div\&gt;\n                       \&lt;div class\=\&quot;col\-lg\-2 col\-sm\-6\&quot;\&gt;\n                           \&lt;div class\=\&quot;footer\-widget footer\-shortcut\-link\&quot;\&gt;\n                               \&lt;h4\&gt;Job Seekers\&lt;\/h4\&gt;\n                               \&lt;div class\=\&quot;widget\-inner\&quot;\&gt;\n                                   \&lt;ul\&gt;\n                                       \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Create Account\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                       \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Career Counseling\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                       \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;My Oficiona\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                       \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;FAQ\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                       \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Video Guides\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                   \&lt;\/ul\&gt;\n                               \&lt;\/div\&gt;\n                           \&lt;\/div\&gt;\n                       \&lt;\/div\&gt;\n                       \&lt;div class\=\&quot;col\-lg\-2 col\-sm\-6\&quot;\&gt;\n                           \&lt;div class\=\&quot;footer\-widget footer\-shortcut\-link\&quot;\&gt;\n                               \&lt;h4\&gt;Employers\&lt;\/h4\&gt;\n                               \&lt;div class\=\&quot;widget\-inner\&quot;\&gt;\n                                   \&lt;ul\&gt;\n                                       \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Create Account\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                       \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Products\/Service\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                       \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Post a Job\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                       \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;FAQ\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                   \&lt;\/ul\&gt;\n                               \&lt;\/div\&gt;\n                           \&lt;\/div\&gt;\n                       \&lt;\/div\&gt;\n                   \&lt;\/div\&gt;\n               \&lt;\/div\&gt;\n           \&lt;\/div\&gt;\n           \&lt;div class\=\&quot;footer\-bottom\-area\&quot;\&gt;\n               \&lt;div class\=\&quot;container\&quot;\&gt;\n                   \&lt;div class\=\&quot;row\&quot;\&gt;\n                       \&lt;div class\=\&quot;col\&quot;\&gt;\n                           \&lt;div class\=\&quot;footer\-bottom border\-top\&quot;\&gt;\n                               \&lt;div class\=\&quot;row\&quot;\&gt;\n                                   \&lt;div class\=\&quot;col\-xl\-4 col\-lg\-5 order\-lg\-2\&quot;\&gt;\n                                       \&lt;div class\=\&quot;footer\-app\-download\&quot;\&gt;\n                                           \&lt;a href\=\&quot;\#\&quot; class\=\&quot;apple\-app\&quot;\&gt;Apple Store\&lt;\/a\&gt;\n                                           \&lt;a href\=\&quot;\#\&quot; class\=\&quot;android\-app\&quot;\&gt;Google Play\&lt;\/a\&gt;\n                                       \&lt;\/div\&gt;\n                                   \&lt;\/div\&gt;\n                                   \&lt;div class\=\&quot;col\-xl\-4 col\-lg\-4 order\-lg\-1\&quot;\&gt;\n                                       \&lt;p class\=\&quot;copyright\-text\&quot;\&gt;Copyright \&lt;a href\=\&quot;\#\&quot;\&gt;Oficiona\&lt;\/a\&gt; 2018\, All right reserved\&lt;\/p\&gt;\n                                   \&lt;\/div\&gt;\n                                   \&lt;div class\=\&quot;col\-xl\-4 col\-lg\-3 order\-lg\-3\&quot;\&gt;\n                                       \&lt;div class\=\&quot;back\-to\-top\&quot;\&gt;\n                                           \&lt;a href\=\&quot;\#\&quot;\&gt;Back to top\&lt;i class\=\&quot;fas fa\-angle\-up\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\n                                       \&lt;\/div\&gt;\n                                   \&lt;\/div\&gt;\n                               \&lt;\/div\&gt;\n                           \&lt;\/div\&gt;\n                       \&lt;\/div\&gt;\n                   \&lt;\/div\&gt;\n               \&lt;\/div\&gt;\n           \&lt;\/div\&gt;\n       \&lt;\/footer\&gt;</find>
+      <find>retreiveToken</find>
+      <find>dashoard</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
+        <option value="$PROJECT_DIR$/resources/sass/app.scss" />
+        <option value="$PROJECT_DIR$/resources/js/components/profile.vue" />
+        <option value="$PROJECT_DIR$/resources/js/components/mainlayout/footer.vue" />
+        <option value="$PROJECT_DIR$/resources/js/components/mainlayout/header.vue" />
+        <option value="$PROJECT_DIR$/resources/js/components/mainlayout/sidebar.vue" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/js/components/dashboard.vue" />
+        <option value="$PROJECT_DIR$/resources/js/bootstrap.js" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/master.blade.php" />
+        <option value="$PROJECT_DIR$/resources/js/components/home/mainpage.vue" />
+        <option value="$PROJECT_DIR$/config/auth.php" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" />
+        <option value="$PROJECT_DIR$/routes/api.php" />
+        <option value="$PROJECT_DIR$/app/User.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/resources/js/Store.js" />
+        <option value="$PROJECT_DIR$/resources/js/app.js" />
+        <option value="$PROJECT_DIR$/resources/js/components/Auth/login.vue" />
+        <option value="$PROJECT_DIR$/resources/js/components/mainlayout/widget.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/laravel/slack-notification-channel" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/laravel/nexmo-notification-channel" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/nexmo/client" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/vendor/php-http/guzzle6-adapter" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/laravel/passport" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-server" />
+      <path value="$PROJECT_DIR$/vendor/defuse/php-encryption" />
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/league/event" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="74" />
+    <option name="y" value="61" />
+    <option name="width" value="1301" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="translation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="translation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="translation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="translation" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="translation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="translation" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="translation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="translation" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="translation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="translation" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="translation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="translation" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="translation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="translation" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="mainlayout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="translation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="translation" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="translation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="translation" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="translation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="translation" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="app.js&#9;FILE&#9;file:///var/www/translation/resources/js/app.js&#10;api&#9;FILE&#9;file:///var/www/translation/routes/api.php&#10;user&#9;null&#9;null&#10;app.php&#9;FILE&#9;file:///var/www/translation/config/app.php&#10;api.php&#9;FILE&#9;file:///var/www/translation/routes/api.php&#10;auth.php&#9;FILE&#9;file:///var/www/translation/config/auth.php&#10;auth&#9;null&#9;null&#10;user.&#9;FILE&#9;file:///var/www/translation/app/User.php&#10;ma&#9;FILE&#9;file:///var/www/translation/resources/views/layouts/master.blade.php&#10;web.&#9;FILE&#9;file:///var/www/translation/routes/web.php&#10;app.&#9;FILE&#9;file:///var/www/translation/resources/views/layouts/app.blade.php&#10;apps&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../suppliers-key.local" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/js/components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.watch-poll">
+    <configuration name="dev" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="production" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="production" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="watch-poll" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="watch-poll" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="watch" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="watch" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.watch-poll" />
+      <item itemvalue="npm.dev" />
+      <item itemvalue="npm.watch" />
+      <item itemvalue="npm.production" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.watch-poll" />
+        <item itemvalue="npm.watch" />
+        <item itemvalue="npm.production" />
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f27f4101-9878-4f24-a5f3-64c4402bd931" name="Default Changelist" comment="" />
+      <created>1546603499011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546603499011</updated>
+      <workItem from="1546603501020" duration="231000" />
+      <workItem from="1546837697199" duration="979000" />
+      <workItem from="1548088789610" duration="5694000" />
+      <workItem from="1548242958386" duration="11063000" />
+      <workItem from="1548347039990" duration="1635000" />
+      <workItem from="1548781604036" duration="4986000" />
+      <workItem from="1548940348087" duration="616000" />
+      <workItem from="1548948066359" duration="7000" />
+      <workItem from="1548956006958" duration="5000" />
+      <workItem from="1548956350756" duration="7000" />
+      <workItem from="1548997608075" duration="56000" />
+      <workItem from="1549861791526" duration="5510000" />
+      <workItem from="1550082197340" duration="7788000" />
+      <workItem from="1550161333161" duration="3161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41738000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48614073" visible="true" weight="0.29960158" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" sideWeight="0.5138593" side_tool="true" weight="0.29960158" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27399382" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.34365326" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/components/profile.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/components/ExampleComponent.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/components/mainlayout/footer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/components/mainlayout/header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/components/mainlayout/sidebar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="84" selection-start-line="8" selection-start-column="84" selection-end-line="8" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/components/home/mainpage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="552" column="11" selection-start-line="552" selection-start-column="11" selection-end-line="552" selection-end-column="11" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#footer#0;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AuthServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="13" column="2" selection-start-line="13" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/Store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#400#490#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="20" column="61" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="61" />
+          <folding>
+            <element signature="e#334#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/components/Auth/login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/components/dashboard.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/components/mainlayout/widget.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="62" column="40" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
