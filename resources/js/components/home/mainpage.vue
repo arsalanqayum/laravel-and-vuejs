@@ -446,7 +446,7 @@
                 </div>
                 <div class="row">
                     <div class="col">
-                        <carousel class="" :autoplay="true">
+                        <carousel class="" :nav="false" :margin="5" :items="5" :autoplay="true" :responsive="{0:{items:1,nav:false},600:{items:3,nav:false},768:{items:5,nav:false}}">
 
                             <div class="company-wrap">
                                 <div class="thumb">
@@ -658,25 +658,16 @@
             </div>
         </footer>
         <!-- Footer End -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     </div>
 </template>
 <script>
     import carousel from 'vue-owl-carousel';
     export default{
+        data(){
+          return {
+
+          }
+        },
         components:{
             carousel,
         }
