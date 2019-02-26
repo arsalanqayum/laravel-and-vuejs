@@ -1,6 +1,9 @@
 import Vue from 'vue';
 import Vuex from 'vuex';
 import axios from 'axios';
+import  baseUrl   from './BaseUrl';
+
+const API_URL=baseUrl;
 Vue.use(Vuex);
 export const store =new Vuex.Store({
     state:{
@@ -14,7 +17,7 @@ export const store =new Vuex.Store({
     },
     actions:{
         retreiveToken(context,credentials){
-        axios.post('http://127.0.0.1:8000/api/login',{
+        axios.post(API_URL+"/api/login",{
             email:credentials.email,
             password:credentials.password
         }).then(response=>{
