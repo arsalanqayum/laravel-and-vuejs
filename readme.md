@@ -26,7 +26,7 @@ apply to job.
 
 ## Laravel Sponsors
 
-lexjwa
+https://github.com/lexjwa
 
 ## Security Vulnerabilities
 
