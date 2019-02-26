@@ -426,131 +426,130 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="job-list">
-                            <div class="thumb">
-                                <a href="#">
-                                    <img src="images/job/company-logo-2.png" class="img-fluid" alt="">
-                                </a>
-                            </div>
-                            <div class="body">
-                                <div class="content">
-                                    <h4><a href="job-details.html">Project Manager</a></h4>
-                                    <div class="info">
-                                        <span class="company"><a href="#"><i data-feather="briefcase"></i>Degoin</a></span>
-                                        <span class="office-location"><a href="#"><i data-feather="map-pin"></i>San Francisco</a></span>
-                                        <span class="job-type part-time"><a href="#"><i data-feather="clock"></i>Part Time</a></span>
-                                    </div>
-                                </div>
-                                <div class="more">
-                                    <div class="buttons">
-                                        <a href="#" class="button">Apply Now</a>
-                                        <a href="#" class="favourite"><i data-feather="heart"></i></a>
-                                    </div>
-                                    <p class="deadline">Deadline: Oct 31, 2018</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="job-list">
-                            <div class="thumb">
-                                <a href="#">
-                                    <img src="images/job/company-logo-8.png" class="img-fluid" alt="">
-                                </a>
-                            </div>
-                            <div class="body">
-                                <div class="content">
-                                    <h4><a href="job-details.html">Restaurant Team Member - Crew </a></h4>
-                                    <div class="info">
-                                        <span class="company"><a href="#"><i data-feather="briefcase"></i>Geologitic</a></span>
-                                        <span class="office-location"><a href="#"><i data-feather="map-pin"></i>New Orleans</a></span>
-                                        <span class="job-type temporary"><a href="#"><i data-feather="clock"></i>Temporary</a></span>
-                                    </div>
-                                </div>
-                                <div class="more">
-                                    <div class="buttons">
-                                        <a href="#" class="button">Apply Now</a>
-                                        <a href="#" class="favourite"><i data-feather="heart"></i></a>
-                                    </div>
-                                    <p class="deadline">Deadline: Oct 31, 2018</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="job-list">
-                            <div class="thumb">
-                                <a href="#">
-                                    <img src="images/job/company-logo-9.png" class="img-fluid" alt="">
-                                </a>
-                            </div>
-                            <div class="body">
-                                <div class="content">
-                                    <h4><a href="job-details.html">Nutrition Advisor</a></h4>
-                                    <div class="info">
-                                        <span class="company"><a href="#"><i data-feather="briefcase"></i>Theoreo</a></span>
-                                        <span class="office-location"><a href="#"><i data-feather="map-pin"></i>New York City</a></span>
-                                        <span class="job-type full-time"><a href="#"><i data-feather="clock"></i>Full Time</a></span>
-                                    </div>
-                                </div>
-                                <div class="more">
-                                    <div class="buttons">
-                                        <a href="#" class="button">Apply Now</a>
-                                        <a href="#" class="favourite"><i data-feather="heart"></i></a>
-                                    </div>
-                                    <p class="deadline">Deadline: Oct 31, 2018</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="job-list">
-                            <div class="thumb">
-                                <a href="#">
-                                    <img src="images/job/company-logo-10.png" class="img-fluid" alt="">
-                                </a>
-                            </div>
-                            <div class="body">
-                                <div class="content">
-                                    <h4><a href="job-details.html">UI Designer</a></h4>
-                                    <div class="info">
-                                        <span class="company"><a href="#"><i data-feather="briefcase"></i>Degoin</a></span>
-                                        <span class="office-location"><a href="#"><i data-feather="map-pin"></i>San Francisco</a></span>
-                                        <span class="job-type part-time"><a href="#"><i data-feather="clock"></i>Part Time</a></span>
-                                    </div>
-                                </div>
-                                <div class="more">
-                                    <div class="buttons">
-                                        <a href="#" class="button">Apply Now</a>
-                                        <a href="#" class="favourite"><i data-feather="heart"></i></a>
-                                    </div>
-                                    <p class="deadline">Deadline: Oct 31, 2018</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="job-list">
-                            <div class="thumb">
-                                <a href="#">
-                                    <img src="images/job/company-logo-3.png" class="img-fluid" alt="">
-                                </a>
-                            </div>
-                            <div class="body">
-                                <div class="content">
-                                    <h4><a href="job-details.html">Land Development Marketer</a></h4>
-                                    <div class="info">
-                                        <span class="company"><a href="#"><i data-feather="briefcase"></i>Realouse</a></span>
-                                        <span class="office-location"><a href="#"><i data-feather="map-pin"></i>Washington, D.C.</a></span>
-                                        <span class="job-type freelance"><a href="#"><i data-feather="clock"></i>Freelance</a></span>
-                                    </div>
-                                </div>
-                                <div class="more">
-                                    <div class="buttons">
-                                        <a href="#" class="button">Apply Now</a>
-                                        <a href="#" class="favourite"><i data-feather="heart"></i></a>
-                                    </div>
-                                    <p class="deadline">Deadline: Oct 31, 2018</p>
-                                </div>
-                            </div>
-                        </div>
+
+
+
                     </div>
                 </div>
             </div>
         </div>
         <!-- Jobs End -->
+        <!--top company-->
+        <div class="section-padding-top padding-bottom-90">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <div class="section-header">
+                            <h2>Top Companies</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <carousel class="" :autoplay="true">
+
+                            <div class="company-wrap">
+                                <div class="thumb">
+                                    <a href="#">
+                                        <img src="../../../../public/images/company/company-logo-1.png" class="img-fluid" alt="">
+                                    </a>
+                                </div>
+                                <div class="body">
+                                    <h4><a href="employer-details.html">Digoin</a></h4>
+                                    <span>Kansas City, Missouri</span>
+                                    <a href="job-listing.html" class="button">4 Open Positions</a>
+                                </div>
+                            </div>
+                            <div class="company-wrap">
+                                <div class="thumb">
+                                    <a href="#">
+                                        <img src="../../../../public/images/company/company-logo-2.png" class="img-fluid" alt="">
+                                    </a>
+                                </div>
+                                <div class="body">
+                                    <h4><a href="employer-details.html">Orion Ltd.</a></h4>
+                                    <span>Sacramento, California</span>
+                                    <a href="job-listing.html" class="button">2 Open Positions</a>
+                                </div>
+                            </div>
+                            <div class="company-wrap">
+                                <div class="thumb">
+                                    <a href="#">
+                                        <img src="../../../../public/images/company/company-logo-3.png" class="img-fluid" alt="">
+                                    </a>
+                                </div>
+                                <div class="body">
+                                    <h4><a href="employer-details.html">Realhouse</a></h4>
+                                    <span>London, United Kingdom</span>
+                                    <a href="job-listing.html" class="button">4 Open Positions</a>
+                                </div>
+                            </div>
+                            <div class="company-wrap">
+                                <div class="thumb">
+                                    <a href="#">
+                                        <img src="../../../../public/images/company/company-logo-4.png" class="img-fluid" alt="">
+                                    </a>
+                                </div>
+                                <div class="body">
+                                    <h4><a href="employer-details.html">BioPro</a></h4>
+                                    <span>Ajax, Ontarioland</span>
+                                    <a href="job-listing.html" class="button">1 Open Positions</a>
+                                </div>
+                            </div>
+                            <div class="company-wrap">
+                                <div class="thumb">
+                                    <a href="#">
+                                        <img src="../../../../public/images/company/company-logo-1.png" class="img-fluid" alt="">
+                                    </a>
+                                </div>
+                                <div class="body">
+                                    <h4><a href="employer-details.html">Digoin</a></h4>
+                                    <span>Kansas City, Missouri</span>
+                                    <a href="job-listing.html" class="button">4 Open Positions</a>
+                                </div>
+                            </div>
+                            <div class="company-wrap">
+                                <div class="thumb">
+                                    <a href="#">
+                                        <img src="../../../../public/images/company/company-logo-2.png" class="img-fluid" alt="">
+                                    </a>
+                                </div>
+                                <div class="body">
+                                    <h4><a href="employer-details.html">Orion Ltd.</a></h4>
+                                    <span>Sacramento, California</span>
+                                    <a href="job-listing.html" class="button">2 Open Positions</a>
+                                </div>
+                            </div>
+                            <div class="company-wrap">
+                                <div class="thumb">
+                                    <a href="#">
+                                        <img src="../../../../public/images/company/company-logo-3.png" class="img-fluid" alt="">
+                                    </a>
+                                </div>
+                                <div class="body">
+                                    <h4><a href="employer-details.html">Realhouse</a></h4>
+                                    <span>London, United Kingdom</span>
+                                    <a href="job-listing.html" class="button">4 Open Positions</a>
+                                </div>
+                            </div>
+                            <div class="company-wrap">
+                                <div class="thumb">
+                                    <a href="#">
+                                        <img src="../../../../public/images/company/company-logo-4.png" class="img-fluid" alt="">
+                                    </a>
+                                </div>
+                                <div class="body">
+                                    <h4><a href="employer-details.html">BioPro</a></h4>
+                                    <span>Ajax, Ontarioland</span>
+                                    <a href="job-listing.html" class="button">1 Open Positions</a>
+                                </div>
+                            </div>
+                        </carousel>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--top company end-->
         <!-- Footer -->
         <footer class="footer-bg">
             <div class="footer-top border-bottom section-padding-top padding-bottom-40">
@@ -675,6 +674,14 @@
 
     </div>
 </template>
+<script>
+    import carousel from 'vue-owl-carousel';
+    export default{
+        components:{
+            carousel,
+        }
+    }
+</script>
 <style>
     @import "../../../../public/assets/css/fontawesome-all.min.css";
     @import "../../../../public/assets/css/themify-icons.css";
