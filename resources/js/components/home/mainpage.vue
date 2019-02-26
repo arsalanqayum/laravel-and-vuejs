@@ -685,5 +685,7 @@
     @import "../../../../public/assets/css/slick.css";
     @import "../../../../public/assets/css/owl.carousel.min.css";
     @import "../../../../public/assets/css/jquery.nstSlider.min.css";
+    @import "../../../../public/css/custom-style.css";
     @import "../../../../public/css/main.css";
+
 </style>
